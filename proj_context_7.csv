@@ -1,0 +1,26 @@
+,"Regmata kasutaja","Reg kasutaja","Kasutaja","Pank","Administraator","Grupi moderaator","Grupi looja"
+"Loo kuulamine",1,1,1,0,0,0,0
+"Kommentaari kustutamine",0,1,0,0,0,0,0
+"Loo kommenteerimine",0,1,0,0,0,0,0
+"Loo avalikkuse määramine",0,1,0,0,0,0,0
+"Loo üleslaadimine",0,1,0,0,0,0,0
+"Loo salvestamine",0,1,0,0,0,0,0
+"Loo kustutamine",0,1,0,0,0,0,0
+"Kasutaja reg",0,1,1,0,0,1,1
+"Kasutaja õiguste suurendamine",0,1,0,1,0,1,1
+"Teise kasutaja jälgimine",0,1,0,0,0,1,1
+"Sõnumi saatmine ",0,1,0,0,0,1,1
+"Sõnumi lugemine",0,1,0,0,0,1,1
+"Grupi liikmeks astumine",0,1,0,0,0,1,1
+"Kasutaja kustutamine",0,1,0,0,1,1,1
+"Kasutaja ajutine sulgemine",0,0,0,0,1,0,0
+"Kasutaja eemaldamine grupist",0,0,0,0,0,1,1
+"Grupis olevate lugude kuulamine",0,1,1,0,0,1,1
+"Lugude lisamine gruppi",0,1,0,0,0,1,1
+"Grupiga liitumine",0,1,0,0,0,1,1
+"Lugude lubamine gruppi",0,0,0,0,0,1,1
+"Lugude eemaldamine grupist",0,0,0,0,0,1,1
+"Kasutaja eemaldamine grupist",0,0,0,0,0,1,1
+"Grupi liikmete staatuse ,uutmine",0,0,0,0,0,1,1
+"Kõigi grupi liikmete staatuse muutmine",0,0,0,0,0,0,1
+"Grupi loomine",0,0,0,0,0,0,1

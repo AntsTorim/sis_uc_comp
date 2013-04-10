@@ -1,0 +1,11 @@
+,"Töötaja","Klient"
+"Kauba lisamine",1,0
+"Kauba info muutmine",1,0
+"Kauba kustutamine",1,0
+"Kauba info vaatamine",0,1
+"Tellimuse esitamine",0,1
+"Kaubaarve maksmine",0,1
+"Tellimuse kinnitamine",1,0
+"Tellimuse täitmine",1,0
+"Tellimuse tühistamine",1,1
+"Toote tellimine tarnijalt",1,0

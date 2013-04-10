@@ -1,0 +1,17 @@
+,"Klient","Regmata klient","Kklubi klient","Kassapidaja","Kinomehaanik","Saalitöötaja","IS admin","Panga IS"
+"Kino info vaatamine",1,1,1,0,0,0,0,0
+"Seansikoha info vaatamine",1,1,1,0,0,0,0,0
+"Filmiinfo vaatamine",1,1,1,0,0,0,0,0
+"Piletiautomaadiga pileti ost",1,1,1,0,0,0,0,0
+"Kassast pileti ostmine",1,1,1,1,0,0,0,0
+"Kinoseansil käimine",1,1,1,0,1,1,0,0
+"IS registreerimine",0,1,0,0,0,0,0,0
+"Profiili muutmine",0,0,1,0,0,0,0,0
+"Staatuse uuendamine",0,0,1,0,0,0,0,0
+"Pileti info vaatamine",0,0,1,0,0,0,0,0
+"Pileti broneerimine",0,0,1,0,0,0,0,0
+"Pileti broneerimise tühistamine",0,0,1,0,0,0,0,0
+"Piletiautomaadiga pileti printimine",0,0,1,0,0,0,0,0
+"Internetist pileti tellimine",0,0,1,0,0,0,0,1
+"Filmiinfo loomine ja muutmine",0,0,0,0,0,0,1,0
+"Seansi loomine ja muutmine",0,0,0,0,0,0,1,0

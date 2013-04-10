@@ -1,0 +1,20 @@
+,"Külastaja","Kasutaja","Moderaator","Administraator"
+"Filmide otsimine",1,1,1,0
+"Filmide lisamine",0,0,1,0
+"Filmide hindamine",0,1,1,0
+"Top filmide vaatamine",1,1,1,0
+"Andmete sisestamine",0,1,0,0
+"Registreerimistaotluse ärasaatmine",1,0,0,0
+"Andmete parandamine",1,0,0,0
+"Kasutaja kinnitamine",0,0,0,1
+"Päringu kasutaja kohta saatmine",0,0,0,1
+"tulemusi saamine",1,1,1,0
+"päringut andmebaasi saatmine",1,1,1,0
+"nimetuse sisestamine",1,1,1,0
+"Info filmi kohta sisestamine",0,0,1,0
+"Kinnitamistaotluse arasatmine",0,0,1,0
+"paringu parandamise kohta saatmine",0,0,1,0
+"info parandamine",0,0,1,0
+"kinnitamise saamine",0,0,1,0
+"kinnitamist saamine",0,1,1,0
+"hinde panemine",0,1,1,0

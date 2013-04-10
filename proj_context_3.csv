@@ -1,0 +1,16 @@
+,"User","Admin","User B"
+"Register",1,0,0
+"Edit Profile",1,0,0
+"User Control",0,1,0
+"Friendship",1,0,0
+"Messaging",1,0,0
+"Join the Group",1,0,0
+"Leave posts",1,0,1
+"Make a group",0,0,1
+"Listen",1,0,0
+"Manage playlist",1,0,0
+"Upload manage trax",1,0,0
+"Publish own apps",1,0,0
+"Use apps",1,0,0
+"Create event",1,0,0
+"Attend event",1,0,0

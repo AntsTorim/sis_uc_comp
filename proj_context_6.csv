@@ -1,0 +1,11 @@
+,"Külaline","Kasutaja","Administraator","Moderaator"
+"Teema otsimine",1,1,1,1
+"Uue teema avamine",0,1,1,1
+"Teema all olevate postituste vaatamine",1,1,1,1
+"Uue postituse lisamine",0,1,1,1
+"Vana postituse muutmine",0,1,1,1
+"Postituse muudatuste vaatamine",0,1,1,1
+"Teemade liigutamine",0,0,0,1
+"Teema sulgemine",0,0,0,1
+"Kategooria lisamine",0,0,1,0
+"Kategooria kustutamine",0,0,1,0

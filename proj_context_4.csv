@@ -1,0 +1,14 @@
+,"Tööotsija","IS Töötaja","Tööandja"
+"Sisse logimine",1,0,1
+"CV koostamine",1,0,0
+"CV kontrollimine",0,1,0
+"CV knnitamine",0,1,0
+"Konkursi loomine",0,0,1
+"Kontroll",0,1,0
+"Konkursis osalemine",1,0,0
+"Konkursi lõpetamine",0,1,0
+"Mail",1,1,1
+"Koolituse loomine",0,0,1
+"Koolituse kontroll",0,1,0
+"Koolitusele reg",1,0,1
+"Koolituse lõpetamine",0,1,0
