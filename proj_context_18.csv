@@ -1,0 +1,15 @@
+,"Klient","Administraator","Mobile.de"
+"Registreerimine",1,0,0
+"Andmete parandamine",1,0,0
+"Klientide andmete parandamine",0,1,0
+"Toodete loetelu kontrollimine",0,1,0
+"Ostetud autode kustutamine Abst",0,1,1
+"Mittesobivate pakkumiste kustutamine Abst",0,1,0
+"Toodete loetelu esitamine",1,0,1
+"Sobiva toote otsimine",1,0,0
+"Makse saatmine",1,0,0
+"Toote tellimine",1,0,0
+"Saadetud toote info lugemine",1,0,0
+"Makse kinnitamine",0,1,0
+"Müügi lõpetamine",0,1,0
+"Saadetud toote kohta info esitamine",0,1,1

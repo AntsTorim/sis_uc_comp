@@ -1,0 +1,16 @@
+,"Aineõpetaja","Klassijuhataja","Administraator","Õppealajuhataja","Õpilane"
+"Aine lukustamine",1,1,0,0,0
+"Valikulisele ainele reg kinnitamine",1,1,0,0,0
+"Valikulisele ainele registreerumine",0,0,0,0,1
+"Aine avamine",0,0,1,0,0
+"Aine kinnitamine",0,0,1,1,0
+"Aine lisamine klassile",0,0,1,1,0
+"Hinnete vaatamine",0,0,0,0,1
+"Puudumiste vaatamine",0,0,0,0,1
+"Märkuste vaatamine",0,0,0,0,1
+"Õpilaste hindamine",1,1,0,0,0
+"Õpilaste puudumiste märkimine",1,1,0,0,0
+"Õpilastele märkuste kirjutamine",1,1,0,0,0
+"Õpilaste seisu vaatamine",1,1,0,0,0
+"Klassi puudumiste põhjendamine",0,1,0,0,0
+"Klassi üldseisu vaatamine",0,1,0,0,0

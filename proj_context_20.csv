@@ -1,0 +1,9 @@
+,"Klient","Andmesisestaja","Haldur","Otsustaja","Automüüja","Admin spetsialist"
+"Klient esitab taotluse",1,0,0,0,0,0
+"Kliendiandmete sisestamine süsteemi",0,1,0,0,0,0
+"Süsteemis andmete edastamine haldurile",0,1,1,0,0,0
+"Süsteemis pakkumise koostamine",0,0,1,0,0,0
+"Pakkumine saadetakse süsteemi kaudu kinnitamisele",0,0,0,1,0,0
+"Leping genereerimine süsteemis",0,0,1,1,0,0
+"Lepingu allkirjastamine",1,0,1,0,1,0
+"Andmete täiendav kontroll",0,0,0,0,0,1

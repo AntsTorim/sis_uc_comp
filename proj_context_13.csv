@@ -1,0 +1,11 @@
+,"Reisija","Mkaardi tähtaeg","Klienditeenindaja","Piletikontrolör"
+"Kontosse sisenemine",1,0,0,0
+"Kontole raha laadimine",1,0,0,0
+"Pileti ostmine",1,0,0,0
+"Konto väljavõtte vaatamine",1,0,0,0
+"Mkaardi aegumine",0,1,0,0
+"Mkaardi ostmine",1,0,1,0
+"Pileti ostmine",1,0,1,0
+"Raha laadimine kontole",1,0,1,0
+"Pileti kehtivuse kontroll",1,0,1,1
+"Kasutajakontosse logimine",0,0,1,1

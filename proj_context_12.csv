@@ -1,0 +1,23 @@
+,"Müügitöötaja","Müügijuht","Andmebaas","Süsteem","Panga IS","Klient","Töötaja","Regmata klient","Reg klient"
+"Kaubainfo uuenduste nimekirja loomine",1,0,0,0,0,0,0,0,0
+"Nimekirja heakskiit",0,1,0,0,0,0,0,0,0
+"Uuenduste impordiformaatimine",1,0,0,1,0,0,0,0,0
+"Andmebaasi import",0,0,1,1,0,0,0,0,0
+"Andmekontoll",1,0,0,0,0,0,0,0,0
+"Kaubakaardi uuendamine",0,0,1,1,0,0,0,0,0
+"Kauba otsing",0,0,0,1,0,1,0,0,0
+"Kauba lisamine ostukorvi",0,0,0,0,0,1,0,0,0
+"Arve koostamine",0,0,0,1,0,0,0,0,0
+"Tellimuse edastamine",0,0,0,0,0,1,0,0,0
+"Makse sooritamine",0,0,0,1,1,1,0,0,0
+"Makse kontroll",0,0,0,1,0,0,0,0,0
+"Kauba välja saatmine",0,0,0,0,0,0,1,0,0
+"Tellimuse seisundi uuendamine",0,0,0,1,0,0,1,0,0
+"Tellimuse seisundi vaatamine",0,0,0,0,0,1,0,0,0
+"Andmete sisestamine",0,0,0,0,0,0,0,1,0
+"Taotluse saatmine",0,0,0,0,0,0,0,1,0
+"Andmete kontrollimine",0,0,0,1,0,0,0,0,0
+"Kliendi arhiveerimine",0,0,0,1,0,0,0,0,0
+"Andmete vaatamine",0,0,0,0,0,0,1,0,1
+"Andmete muutmine",0,0,0,0,0,0,0,0,1
+"Muudatuste arhiveerimine",0,0,0,1,0,0,0,0,0
