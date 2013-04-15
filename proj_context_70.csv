@@ -1,0 +1,21 @@
+,"Mängija","Vaataja","Kommentaator","Eseme omaja","Disainija","Administraator","Tagasiside saatja"
+"Matğitoa loomine",1,1,1,0,0,0,0
+"Matği ajal kirjutamine",1,1,1,0,0,0,0
+"Mängimise jälgimine",0,1,1,0,0,0,0
+"Eseme kasutamine",1,1,0,0,0,0,0
+"Mängimine",1,0,0,0,0,0,0
+"Matği ajal audio edastamine",0,0,1,0,0,0,0
+"Matği otsimisega liitumine",1,0,0,0,0,0,0
+"Matği aktsepteerimine",1,0,0,0,0,0,0
+"Matğis mängimine",1,0,0,0,0,0,0
+"Käimasoleva matği vaatamine",0,1,0,0,0,0,0
+"Matği hindamine",0,1,0,0,0,0,0
+"Prototüübi kustutamine",0,0,0,0,1,1,0
+"Prototüübi lisamine",0,0,0,0,1,0,0
+"Prototüübi visandi lisamine",0,0,0,0,1,0,0
+"Prototüübi visandite uuendamine",0,0,0,0,1,0,0
+"Eseme vahetamine",0,0,0,1,0,0,0
+"Kasutajate üle tagasiside saatmine",0,0,0,0,0,0,1
+"Keelu muutmine",0,0,0,0,0,1,0
+"Mängijate tagasiside uurimine",0,0,0,0,0,1,0
+"Kasutajate õiguste piiramine",0,0,0,0,0,1,0

@@ -1,0 +1,18 @@
+,"Head of the Company","A new customer","Employee","Customer"
+"Registration of a new customer",1,1,0,0
+"Change the organisation data",1,0,1,1
+"Archiving the data",1,1,1,1
+"Create information about the goods",1,0,1,0
+"Check information about the goods",1,0,1,0
+"Register the goods",1,0,1,0
+"Change the information about the goods",1,0,1,0
+"Delete the item",1,0,1,0
+"Create the waybill",1,0,1,0
+"Change the waybill",1,0,1,0
+"Delete the waybill",1,0,1,1
+"Make the invoice from the waybill",1,0,1,1
+"Create the invoice",1,0,1,0
+"Change the invoice",1,0,1,0
+"Delete the invoice",1,0,1,0
+"Create the order",1,0,1,0
+"Confirm the order",1,0,1,0
