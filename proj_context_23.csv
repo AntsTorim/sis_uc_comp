@@ -1,0 +1,13 @@
+,"Ostja","Töötaja","Pank","Kulleriteenus"
+"Korvist kustutamine",1,0,0,0
+"Korvi lisamine",1,0,0,0
+"Andmete sisestamine",1,0,0,0
+"Maksmine",1,0,1,0
+"Toote otsimine",1,1,0,0
+"Tellimuste nimekirja vaatamine",1,1,0,0
+"Tellimuse andmete vaatamine",1,1,0,0
+"Makse andmete edastamine",0,1,1,0
+"Tellimuse üleandmine kullerile",0,1,0,1
+"Täidetuks märkimine",0,1,0,1
+"Kinnitamine",0,1,0,0
+"Tagasi lükkamine",0,1,0,0

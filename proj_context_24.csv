@@ -1,0 +1,25 @@
+,"Bfirma töötaja","Administraator","Klient ","Kassapidaja"
+"Bliini eemaldamine",1,1,0,0
+"Bliini muutmine",1,1,0,0
+"Bliini loomine",1,1,0,0
+"Päringu tegemine bliini kohta",1,1,0,0
+"Breisi eemaldamine",1,1,0,0
+"Breisi muutmine",1,1,0,0
+"Breisi loomine",1,1,0,0
+"Päringu tegemine breisi kohta",0,0,1,1
+"Breisi muutmiseks saatmine",0,1,0,0
+"Breisi kinnitamine",0,1,0,0
+"Breisi kinnitamiseks saatmine",1,0,0,0
+"Pileti ostmine interneti kaudu",0,0,1,0
+"Pileti ostmine bussijaama kassast",0,0,1,1
+"Pileti broneerimine",0,0,1,1
+"Pileti väljaprintimine kassas",0,0,0,1
+"Pileti väljaprintimine iseteenindus terminalis",0,0,1,0
+"Pileti väljaprintimine kodus",0,0,1,0
+"Pileti tagastamine bjaama kassast",0,0,1,1
+"Pileti tagastamine interneti kaudu",4,1,1,0
+"Töötaja konto kustutamine",0,1,0,0
+"Töötaja konto eemaldamine",0,1,0,0
+"Töötaja konto loomine",0,1,0,0
+"Töötaja konto andmete muutmine",1,1,0,1
+"Päringu tegemine töötaja kohta",1,1,0,1

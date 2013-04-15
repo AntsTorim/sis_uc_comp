@@ -1,0 +1,8 @@
+,"Mänguserveri admin","PBBans admin","Mängija","Mänguserver"
+"Rühmakonto registreerimine",1,1,0,0
+"Mängijate taustakontrolli tegemine",1,0,0,0
+"Lisatõendusmaterjalide esitamine",1,1,0,0
+"Keelu lisamine",0,1,0,1
+"Apellatsiooni käsitlemine",0,1,0,0
+"Keelu apelleerimine",0,0,1,0
+"Kontrollimine kas mängijal on keeld",0,0,1,1

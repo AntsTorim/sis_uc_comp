@@ -1,0 +1,8 @@
+,"Kasutaja","Klient","Vanemtöötaja","Raamtupidaja","Klienditeenindaja"
+"Sisselogimine",1,1,1,1,0
+"Tellimisankeedi täitmine",0,1,1,0,0
+"Toote olemasolu kontroll",0,1,1,0,0
+"Raamatupidajalt maksekinnituse küsimine",0,0,1,1,0
+"Dokumentide vormistamine",0,0,1,1,0
+"Tellimuse kinnitamin",0,0,1,0,1
+"Toote saatmine",0,1,0,0,1
